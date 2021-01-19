@@ -170,7 +170,7 @@ in this case “Q1” and “Q2”.
     )
 
 In the same spirit, we specify control Hamiltonians to drive the system.
-Again “connected” connected tells us which qubit this drive acts on and
+Again “connected” tells us which qubit this drive acts on and
 “name” will later be used to assign the correct control signal to this
 drive line.
 
